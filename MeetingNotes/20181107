@@ -1,0 +1,53 @@
+Attendees: 
+•	Karin Bredenberg (National Archives of Sweden, chair)
+•	Anders Bo Nielsen (National Archives of Denmark)
+•	Miguel Ferreira (KEEP Solutions)
+•	Janet Anderson (University of Brighton)
+•	Jaime Kaminski (DLM)
+•	Karin Oolu (DLM)
+•	Carl Wilson (A3, OPF)
+•	PhillipTommerholt (National Archives of Denmark)
+•	Sven Schlarb (Austrian Institute of Tehnology) 
+
+- Text:
+1. Reviewing test corpus issues
+
+CW presents an overview of the A3 validation groups process for test corpus. A set of test cases as issues on the corpus site were provided beforehand. These were initially done by A3 Corpus Team by creating test cases for all CSIP requirements. Short description of what is what, as well as discussion of  highlighted issues takes place. 
+
+CSIPSTR1: 
+https://github.com/DILCISBoard/eark-ip-test-corpus/issues/19
+How to present it to validator if it just single physical folder. ABN comments that you do have  somtimes archival package in which you don’t have them in one hierarchy, but in parallel. Most people try to work with having everything in one package in one hierarchy.
+SS reminds the reason of the tool. For the packaged IP-s we want to have only one folder. When you unpack the ZIP or TAR you get one folder that contains everything. What you can do to test is you take a package archive and it must contain a single folder and not the content itself. You downoad software and unpackage the TAR. Maybe this rule should threrefore be more concrete. 
+CW will update the issue.
+
+CSIPSTR3: 
+https://github.com/DILCISBoard/eark-ip-test-corpus/issues/21
+TAR is not compressed format, just an archive format. SS shares his experience and comments that it is fully compliant and it would be a good idea to build it on top of bagit? Bagit has very few requirements. Our single folder  can be directly put into the data folder of the bagit and that would be fully compliant.  
+ABN shares his experience and comments that we can do now or do it later on. This handling of segmentation is essential to running an efficient archive. That will belong to CSIP and we’ll do that after Nov, in two steps, maybe skip it until next iteration. Q here is since TAR is not a compressed format maybe we should rephrase and use: the package format.
+MF we are discussing three different things: 1. revision of the text that TAR is not compression format but archival format 2. fact that this req should be in CSIP – which I tend to agree because we don’t keep the AIP-s in the ZIP format. 3.replacing a ZIP with package? Bagit is too simple, it can hardly be considered as AIP format. There are other formats, e.g Preservica has xip, lot of competing things. 
+ABN will handle that issue.
+
+CSIPSTR5: 
+https://github.com/DILCISBoard/eark-ip-test-corpus/issues/23
+Second part of the req is not clear, what is relevant metada, this is really hard to test. We can only test what METS thinks is metadata. KB proposes to say should instead of must: which should include all metadata relevant to the whole package. ABN comments that you don’t want all metadata as such. You want METS files, but we’ll handle that part later on. Current wording should let assume that we have just simple small archival IPs in general and we’ll handle real world big packages after Nov. 
+Discussion of deadlines of review period takes place. CSIP should be there in 2 weeks. And we have lot of work to do after Vienna meeting. We have to solve matters of segmentation by the end of Jan. The ideal is that these principles are valid for all kinds of packages. 
+KB will reword that and then all can look and comment. 
+
+CSIPSTR15: 
+https://github.com/DILCISBoard/eark-ip-test-corpus/issues/33
+We are only recommending to include the schemas, but not all xml documents are using an xml schema.  KB idea is to change the wording of xml schema to rule document/schema document. We need to split it up to two. CW and KB will look the wording. 
+
+CSIPSTR16: 
+https://github.com/DILCISBoard/eark-ip-test-corpus/issues/34
+About additional package documentation. Agreed to remove binary. 
+
+CSIPSTR17: 
+https://github.com/DILCISBoard/eark-ip-test-corpus/issues/35
+Repeating of CSIPSTR14, which says IPs and representation folder can be extended. ABN proposes to remove the colon, any kinds of sub-folders. 
+
+- RECAP: CW will correct issue 1, ABN issue 3, KB issue 5, CW and KB will deal issues 15, remove 17, look 14. By the end of year, as a Christmas gift, SIP, AIP, DIP profiles should be ready to review. We need to have segmentation looked over for the separate review in the end of Jan. 
+
+PT Q about profile and extended schema, is that supplementary? KB: if we are using the METS as a standard for describing IP-s, METS demands a profile. The extra schema we have is for the attributes you are adding, we have to call extra schema otherwise we won’t get our attributes. 
+PT If we have a requirement in our CSIP then we also need to state that at least have a schema additional values are listed. Should that be as requirement or not? KB and CW will look at that. 
+
+CW will let know if there is need to look the rest of the issues. 
