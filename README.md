@@ -1,2 +1,2 @@
 # GroupDocumentation
-The own documentation for the DAS Board group like notes and so on
+The own documentation for the DILCIS Board group like notes and so on
