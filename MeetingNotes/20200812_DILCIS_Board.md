@@ -93,6 +93,8 @@ Can be answered when the open questions have a reply.
 
 An update to the CITS Geospatial means that a new request and all the work for applying to be an OGC community standard needs to be remade.
 
+The application and creation of CITE tests requries manpower.
+
 GeoPackage contains all information like EAD and PREMIS and uses a virtual structure. Can it be placed in the data folder as is?
 
 Gregor will look into the GeoPackage and compare it with CISP and SIP.
