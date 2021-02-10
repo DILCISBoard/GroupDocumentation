@@ -54,7 +54,7 @@ Within the E-ARK3 project and Activity 2 there is a milestone 2.5 for suggesting
 
 There was broad agreement for the general content of the document.
 
-Questions focussed on which standards bodies to approach. European bodies such as ESTI were perceived to be more favourable compared to International bodies (ISO).
+Questions focussed on which standards bodies to approach. European bodies such as ETSI were perceived to be more favourable compared to International bodies (ISO).
 
 It was noted that there are complexities regarding the direct endorsement of standards by the EC. This may change with the publication of the Data Governance Act, although at this stage the Act is still a proposal and has not been ratified by the Member States.
 
@@ -91,7 +91,7 @@ Action points:
 
 ## **Decision of Workplan:**
 
-It was decided to focus on approaching European standardisation bodies such as ESTI. Initial approaches will be made through appropriate national standardization agencies or similar bodies regarding the steps required to use ETSI as a standards body.
+It was decided to focus on approaching European standardisation bodies such as ETSI. Initial approaches will be made through appropriate national standardization agencies or similar bodies regarding the steps required to use ETSI as a standards body.
 
 Further research and add content will be added to the document regarding EC endorsements
 
