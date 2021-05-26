@@ -77,7 +77,7 @@ The DILCIS Board needs to decide how we should move forward with the suggestions
 
 #### Discussion
 
-The Board discussed the change request and saw that it might need another name and the number of levels might be different. A smaller group will take on the work and suggest a list of requirements or levels and the name of the list as well as other content needed to be able to state the requirements for this matter. The group also discussed the aim with this task which KB explained as being able to give guidiance and clearly state this levels (current name).
+The Board discussed the change request and saw that it might need another name and the number of levels might be different. A smaller group will take on the work and suggest a list of requirements or levels and the name of the list as well as other content needed to be able to state the requirements for this matter. The group also discussed the aim with this task which KB explained as being able to give guidiance and clearly state these levels (current name).
 
 #### Result
 
