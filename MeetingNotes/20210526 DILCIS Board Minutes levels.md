@@ -77,13 +77,11 @@ The DILCIS Board needs to decide how we should move forward with the suggestions
 
 #### Discussion
 
-The Board discussed the change request and saw that it might need another name and the number of levels might be different. A smaller group will take on the work and suggest a list of requirements or levels and the name of the list as well as other content needed to be able to state the requirements for this matter. 
-
+The Board discussed the change request and saw that it might need another name and the number of levels might be different. A smaller group will take on the work and suggest a list of requirements or levels and the name of the list as well as other content needed to be able to state the requirements for this matter. The group also discussed the aim with this task which KB explained as being able to give guidiance and clearly state this levels (current name).
 
 #### Result
 
 The following Action points were agreed:
-
 
 
 1. JA will lead and be the note taker of the group with MF, CW and ABN as members
@@ -95,7 +93,7 @@ The following Action points were agreed:
 
 ## **Decision of Workplan:**
 
-Ja will take the lead and plan for a first meeting and then a first report from the group on the A2 meeting on the 16th of June.
+JA will take the lead and plan for a first meeting and then a first report from the group on the A2 meeting on the 16th of June.
 
 
 ## **Notes by:**
