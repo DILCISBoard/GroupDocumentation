@@ -31,7 +31,7 @@ Karin Oolu will make the notes
 
 The focus of the meeting is on status reports of documents that will be published on month M24, the deadline is on coming Friday, Oct 15th: 
 
-*CSIP*/ 
+### *CSIP*/ 
 Mostly textual updates and clarity of language (not changing anything but making wording more precise as not native speakers may understand words differently). CW demonstrates the examples on the big screen, explaining misleading words. The third opinion by Martin Dew is expected in the afternoon. No Q-s in the room. Action point: CW informs about the final version. 
 
 *SIP*/ 
