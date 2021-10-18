@@ -55,9 +55,10 @@ ABN has got a Q from colleagues and it's a little bit difficult to sell the spec
 #### *DIP* 
 We haven’t described in detail how going from AIP to DIP and it is difficult to do as we are not fully settled on AIP. KB adds it has to take into account all the new CITS and therefore it's not OK to update it now.  JA Q if it is a new potential project.
 
-*e-Health2 GL*/ 
+#### *e-Health2 GL*/ 
 It will be ready by Friday, only some changes and suggestions have yet to be done.
-Action point: KA will get documents by Friday. 
+
+- *Action point: KA will get documents by Friday.* 
 
 ### DILCIS board role  
 E-ARK project ends with Oct 2021, but we need to maintain the specs also in a time when we are not in the project. As a member of DILCIS Board you have duties as a member and you need to check that in GH. We can't count on getting paid for the work in DILCIS Board. KB will keep e-mail addresses.
