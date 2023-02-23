@@ -75,6 +75,7 @@ SS will make the notes.
 
 
 * Versioning numbers for the IP’s: Agreed that versioning numbers should be aligned, but only the first two numbers. The third number is reserved for minor updates, such as spelling corrections. 
+* The versioning is explaned in ([https://dilcis.eu/images/procedures/LC-001390244_CEF-TC_2019-3_M23d.pdf](https://dilcis.eu/images/procedures/LC-001390244_CEF-TC_2019-3_M23d.pdf)
 
 
 ### Current status of our specifications
