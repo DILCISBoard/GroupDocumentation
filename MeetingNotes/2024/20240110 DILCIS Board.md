@@ -1,4 +1,4 @@
-**Minutes DILCIS Board 2023-11-01**
+**Minutes DILCIS Board 2024-01-10**
 
 **Members attending:**
 
