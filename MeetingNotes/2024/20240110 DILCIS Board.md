@@ -1,6 +1,6 @@
-**Minutes DILCIS Board 2024-01-10**
+# **Minutes DILCIS Board 2024-01-10**
 
-**Members attending:**
+## **Members attending:**
 
 
 
@@ -19,7 +19,7 @@
 
 *=absent
 
-**Agenda**
+## **Agenda**
 
 1. Welcome
 2. Secretary of the meeting
@@ -83,7 +83,7 @@
 8. Next meeting
 9. Meeting closes
 
-#    *Notes*
+# **Notes**
 
 ## **Welcome**
 Karin welcomed everyone to the meeting 
