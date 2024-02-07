@@ -8,7 +8,6 @@
 * Anders Bo Nielsen (National Archives of Denmark)
 * Anja Paulič (National Archives of Slovenia)
 * Arne-Kristian Groven (National Archives of Norway)
-* Audun Lund (Swiss Federal Archives)
 * Gregor Zavrsnik (Geoarh)*
 * Maya Bangerter (Swiss Federal Archives)
 * Janet Anderson (Highbury Research & Development Ltd.)
