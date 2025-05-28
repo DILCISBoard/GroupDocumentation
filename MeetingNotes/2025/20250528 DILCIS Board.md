@@ -14,7 +14,7 @@ Time: 10.00 – 11.30 CEST
 
 * Karin Bredenberg (Kommunalförbundet Sydarkivera, chair)
 * Anders Bo Nielsen (National Archives of Denmark)
-* Anja Paulič (National Archives of Slovenia)*
+* Anja Paulič (National Archives of Slovenia)(x)
 * Arne-Kristian Groven (National Archives of Norway)
 * Gregor Zavrsnik (Geoarh)
 * Janet Anderson (Highbury Research & Development Ltd.)
@@ -24,7 +24,7 @@ Time: 10.00 – 11.30 CEST
 * Sven Schlarb (Austrian Institute of Technology)
 * David Anderson (Highbury Research & Development Ltd., DLM Forum observer)
 
-* =not present
+(x) = not present
 
 
 # Agenda:
