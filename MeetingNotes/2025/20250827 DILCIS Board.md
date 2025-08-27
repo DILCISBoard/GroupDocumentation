@@ -2,7 +2,7 @@
 Time: 10.00 – 11.30 CEST
 # Members: 
 * Karin Bredenberg (Kommunalförbundet Sydarkivera, chair)
-* Anders Bo Nielsen (National Archives of Denmark)
+* Anders Bo Nielsen (Independent)
 * Anja Paulič (National Archives of Slovenia)(x)
 * Arne-Kristian Groven (National Archives of Norway)
 * Gregor Zavrsnik (Geoarh)
